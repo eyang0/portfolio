@@ -18,14 +18,8 @@ g++ -g -Wall -std=c++11 str.cpp str_test.cpp -o str_test
 To run **str_test**:  
 ./str_test 
 
-str_test will ask for string to be entered through the keyboard
+str_test will ask for string to be entered through the keyboard  
 
-
-
-
-
-In sum_pairs, a dynamically allocated array of ints was used to hold the integers from the input file
-
-In tweet_parse, vectors were used to hold both the unique users and unique hashtags that were found
-
-In str_test, necessary functions were added to create the Str class
+- In sum_pairs, a dynamically allocated array of ints was used to hold the integers from the input file
+- In tweet_parse, vectors were used to hold both the unique users and unique hashtags that were found
+- In str_test, necessary functions were added to create the Str class
